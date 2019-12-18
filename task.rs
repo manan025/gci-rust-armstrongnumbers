@@ -16,4 +16,3 @@ fn main() {
         println!("{} is not an Armstrong number!", num);
     }
 }
-© 2019 GitHub, In
